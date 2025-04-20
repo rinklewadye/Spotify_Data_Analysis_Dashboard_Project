@@ -1,6 +1,5 @@
 Spotify_Data_Analysis_Dashboard_Project
 
-Spotify Data Analysis.
 Steps 
 •	Requirement Gathering
 •	Data Connection
